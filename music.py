@@ -496,4 +496,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Streaming(name='& Simping r!help', url='https://www.twitch.tv/doomrangermw'))
     print('Bot done')
 
-bot.run('ODA4NjYyNjU4NDYyNzc3NDE0.YCJzyg.VFeK48NwWcnenCnxWy-WxW6jG8I')
+bot.run('TOKEN')
